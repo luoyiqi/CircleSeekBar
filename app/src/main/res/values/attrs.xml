@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleSeekBar">
+        <attr name="progress_thumb" format="reference"/>
+        <attr name="progress_width" format="integer"/>
+        <attr name="progress_color" format="color" />
+        <attr name="progress_max" format="integer" />
+    </declare-styleable>
+</resources>
